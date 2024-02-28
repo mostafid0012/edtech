@@ -1,0 +1,4 @@
+.carousel-img {
+    filter: brightness(50%);
+    object-fit: cover;
+}
